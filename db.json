@@ -1,15 +1,15 @@
 {
     "cadenaycolgantes":[ {
         "nombre":"Cadena con letra a pedido",
-        "avartar":"",
+        "avartar":"https://i.imgur.com/PFOWFdq.jpg",
         "detalle":"Cadena cartier de plata 950 con una letra a pedido"
     },{
         "nombre":"Colgante de gato",
-        "avartar":"",
+        "avartar":"https://i.imgur.com/s1r0rml.jpg",
         "detalle":"Colgante de plata 950"
     },{
         "nombre":"Colgante arbol de la vida",
-        "avartar":"",
+        "avartar":"https://i.imgur.com/W8VUuLz.jpg",
         "detalle":"Colgante de plata 950"
     }
   ]
